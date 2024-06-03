@@ -35,14 +35,17 @@ CSE-A (ours) 95.2 97.8 80.6 88.7
 CSE-L (ours) 95.2 97.9 80.8 88.7
 
 ## Cite as:
-
-@Article{chandrasekaran2023,
-  author  = {Karthikeyan Chandra Sekaran and Lakshman Balasubramanian and Michael Botsch and Wolfgang Utschick},
-  journal = {2023 IEEE Intelligent Vehicles Symposium (IV)},
-  title   = {Metric Learning Based Class Specific Experts for Open-Set Recognition of Traffic Participants in Urban Areas Using Infrastructure Sensors},
-  year    = {2023},
-  notes   = {accepted},
+```
+@inproceedings{sekaran2023metric,
+  title={Metric Learning Based Class Specific Experts for Open-Set Recognition of Traffic Participants in Urban Areas Using Infrastructure Sensors},
+  author={Sekaran, Karthikeyan Chandra and Balasubramanian, Lakshman and Botsch, Michael and Utschick, Wolfgang},
+  booktitle={2023 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={1--8},
+  year={2023},
+  organization={IEEE},
+  doi={10.1109/IV55152.2023.10186527}
 }
+```
 
 Part of the code is taken from the following repositories:
 https://github.com/dimitymiller/cac-openset
